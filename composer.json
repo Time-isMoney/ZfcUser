@@ -30,7 +30,7 @@
             "dev-master": "2.0.x-dev"
         }
     },
-    "require": {
+    "require": { 
         "php": ">=5.3.3 | 7.2.*",
         "zendframework/zend-authentication": "2.*",
         "zendframework/zend-crypt": "2.*",
