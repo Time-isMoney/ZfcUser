@@ -36,7 +36,7 @@
     "zendframework/zend-mvc": "2.*",
     "zendframework/zend-servicemanager": "2.*",
     "zendframework/zend-session" : "2.*",
-    "zendframework/zend-stdlib": "2.*",
+    "zendframework/zend-stdlib": "*",
     "zendframework/zend-validator": "2.*",
     "zendframework/zend-view": "2.*",
     "zf-commons/zfc-base": "0.*"
